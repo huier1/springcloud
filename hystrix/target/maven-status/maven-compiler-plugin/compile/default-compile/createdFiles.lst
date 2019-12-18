@@ -1,0 +1,5 @@
+com\southwind\controller\HystrixHandler.class
+com\southwind\entity\Student.class
+com\southwind\feign\impl\FeignError.class
+com\southwind\HystrixApplication.class
+com\southwind\feign\FeignProviderClient.class

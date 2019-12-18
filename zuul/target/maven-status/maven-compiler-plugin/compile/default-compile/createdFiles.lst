@@ -1,0 +1,5 @@
+com\southwind\entity\Student.class
+com\southwind\repository\StudentRepository.class
+com\southwind\repository\impl\StudentRepositoryImpl.class
+com\southwind\controller\StudentHandler.class
+com\southwind\ZuulApplication.class

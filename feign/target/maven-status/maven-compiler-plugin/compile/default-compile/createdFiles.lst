@@ -1,0 +1,5 @@
+com\southwind\entity\Student.class
+com\southwind\feign\impl\FeignError.class
+com\southwind\FeignApplication.class
+com\southwind\feign\FeignProviderClient.class
+com\southwind\controller\FeignHandler.class
